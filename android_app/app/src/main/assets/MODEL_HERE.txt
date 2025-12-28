@@ -1,0 +1,11 @@
+This file is a placeholder.
+
+The trained YOLOv8 TFLite model is not included in the repository
+due to GitHub size limits.
+
+Steps:
+1. Download `model.tflite` from the GitHub Releases section.
+2. Place it in this directory:
+   android_app/app/src/main/assets/
+3. Make sure the file name is exactly:
+   model.tflite
